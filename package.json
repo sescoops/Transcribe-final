@@ -1,0 +1,8 @@
+{
+  "name": "transcribe-final",
+  "version": "1.0.0",
+  "main": "api/mcp.js",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.15.1"
+  }
+}
